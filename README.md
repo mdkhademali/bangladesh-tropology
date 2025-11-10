@@ -1,6 +1,5 @@
 ## Bangladesh Topography & Water Map  
-This project visualizes the **topographical and hydrographic features of Bangladesh** using Google Earth Engine.  
-It classifies the landscape based on elevation and highlights floodplains, agricultural plains, uplands, hills, hilltops, and major rivers or water bodies — creating a **comprehensive geomorphological map** of the country.
+This project visualizes the **topographical and hydrographic features of Bangladesh** using Google Earth Engine. It classifies the landscape based on elevation and highlights floodplains, agricultural plains, uplands, hills, hilltops, and major rivers or water bodies, creating a **comprehensive geomorphological map** of the country.
 
 ---
 
@@ -36,14 +35,5 @@ It classifies the landscape based on elevation and highlights floodplains, agric
 
 5. **Visualization** → Layer styled with color palette and rendered on GEE Map.  
 6. **Legend** → Custom UI panel added with labels, color boxes, and attribution.
-
----
-
-## Code Snippet (Google Earth Engine)
-```javascript
-// See full GEE script in: code/bangladesh-topography.js
-Map.addLayer(classified, {min:1,max:6,palette:palette}, 'Bangladesh Topography');
-
----
 
 © mdkhademali
