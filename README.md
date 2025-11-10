@@ -6,7 +6,7 @@ This project visualizes the **topographical and hydrographic features of Banglad
 ## Elevation-Based Landform Classification using Google Earth Engine (GEE)
 
 ![Bangladesh Topography Map](bangladesh-topography.png)  
-*Figure: Elevation and water features of Bangladesh (Visualization by Khadem Ali)*
+*Figure: Elevation and water features of Bangladesh (Visualization by Md. Khadem Ali)*
 
 ---
 
